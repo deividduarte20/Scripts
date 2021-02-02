@@ -14,11 +14,6 @@
 
 ![IMG_Desativa_Horario_verao](https://github.com/deividduarte20/scripts/blob/main/Desativa_horario_verao.JPG)
 
-### Serão adicionados mais em breve.
-
-
-
-
 
 # Informações para contato:
 
