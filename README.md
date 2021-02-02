@@ -8,6 +8,8 @@
 
 ### 2 - DeviceAndPrinters.reg insere um atalho apresentado quando o usuário clica com botão direito na area de trabalho para acesso a Dispositivos e Impressoras conforme imagem abaixo:
 
+![DeviceAndPrinters](https://github.com/deividduarte20/scripts/blob/main/DeviceAndPrinters.JPG)
+
 ### 3 - disable-clock.reg Esse arquivo de registro desativa a flag de horário de verão do windows - utilizo via gpo.
 
 ### Serão adicionados mais em breve.
