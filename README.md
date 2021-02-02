@@ -4,4 +4,4 @@
 
 ### 1 - Fusion2.bat faz a instalação silenciosa do agente fusion inventory via GPO.
 
-# Serão adicionados mais em breve.
+### Serão adicionados mais em breve.
