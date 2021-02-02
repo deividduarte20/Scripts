@@ -1,4 +1,6 @@
-# scripts
+# Scripts
+
+# DEIVID DUARTE
 
 ## Serão inseridos alguns scripts que automatizam atividades.
 
@@ -9,3 +11,14 @@
 ### 3 - disable-clock.reg Esse arquivo de registro desativa a flag de horário de verão do windows - utilizo via gpo.
 
 ### Serão adicionados mais em breve.
+
+
+
+
+
+# Informações para contato:
+
+Telegram: @deividduarte2020
+Linkedin: https://www.linkedin.com/in/deivid-duarte-b726a83a/
+E-mail: deividdua32@gmail.com
+Canal Yotube: https://www.youtube.com/channel/UCOkbpu3eISBkp12cLPVQ9lQ?view_as=subscriber
