@@ -12,6 +12,8 @@
 
 ### 3 - disable-clock.reg Esse arquivo de registro desativa a flag de horário de verão do windows - utilizo via gpo.
 
+![IMG_Desativa_Horario_verao](https://github.com/deividduarte20/scripts/blob/main/Desativa_horario_verao.JPG)
+
 ### Serão adicionados mais em breve.
 
 
