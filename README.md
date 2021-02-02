@@ -2,7 +2,7 @@
 
 ## DEIVID DUARTE
 
-### Serão inseridos alguns scripts que automatizam atividades.
+### Todos os scripts abaixo citados foram testados e utilizados via gpo, Espero que gostem.
 
 ### 1 - Fusion2.bat faz a instalação silenciosa do agente fusion inventory via GPO.
 
@@ -14,7 +14,7 @@
 
 ![IMG_Desativa_Horario_verao](https://github.com/deividduarte20/scripts/blob/main/Desativa_horario_verao.JPG)
 
-### Todos os scripts acima citados foram testados e utilizados via gpo, Espero que gostem.
+
 
 
 # Informações para contato:
