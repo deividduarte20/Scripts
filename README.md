@@ -1,8 +1,8 @@
 # Scripts
 
-# DEIVID DUARTE
+## DEIVID DUARTE
 
-## Serão inseridos alguns scripts que automatizam atividades.
+### Serão inseridos alguns scripts que automatizam atividades.
 
 ### 1 - Fusion2.bat faz a instalação silenciosa do agente fusion inventory via GPO.
 
@@ -13,6 +13,8 @@
 ### 3 - disable-clock.reg Esse arquivo de registro desativa a flag de horário de verão do windows - utilizo via gpo.
 
 ![IMG_Desativa_Horario_verao](https://github.com/deividduarte20/scripts/blob/main/Desativa_horario_verao.JPG)
+
+### Todos os scripts acima citados foram testados e utilizados via gpo, Espero que gostem.
 
 
 # Informações para contato:
