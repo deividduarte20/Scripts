@@ -1,4 +1,4 @@
-# scrpits
+# scripts
 
 ## Serão inseridos alguns scripts que automatizam atividades.
 
