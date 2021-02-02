@@ -1,4 +1,4 @@
-# scrpits_bat
+# scrpits
 
 ## Serão inseridos alguns scripts que automatizam atividades.
 
