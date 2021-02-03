@@ -22,4 +22,4 @@
 Telegram: @deividduarte2020
 Linkedin: https://www.linkedin.com/in/deivid-duarte-b726a83a/
 E-mail: deividdua32@gmail.com
-Canal Yotube: https://www.youtube.com/channel/UCOkbpu3eISBkp12cLPVQ9lQ?view_as=subscriber
+Canal Yotube: https://www.youtube.com/user/SuperDeivid22/featured?sub_confirmation=1
